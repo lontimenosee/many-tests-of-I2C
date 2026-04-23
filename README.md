@@ -1,2 +1,2 @@
 # many-tests-of-I2C
-I try many ways
+Implement the I2C protocol in multiple ways
